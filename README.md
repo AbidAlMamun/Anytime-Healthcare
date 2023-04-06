@@ -1,5 +1,4 @@
 # Anytime-Healthcare
-# Web Technologies (Anytime Healthcare)
 ---
 
 ## Group Information
